@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-10-22 01:01 UTC]
+Google Container Registry Mirror [last sync 2018-10-22 04:45 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -77,7 +77,7 @@ done
 [Changelog](./CHANGES.md)
 -------
 
-Mirror 12 namespaces image from gcr.io
+Mirror 14 namespaces image from gcr.io
 -----
 
 
@@ -115,5 +115,11 @@ Mirror 12 namespaces image from gcr.io
 
 
 [gcr.io/kubeflow-images-public/*](./kubeflow-images-public/README.md)
+
+
+[gcr.io/cloudsql-docker/*](./cloudsql-docker/README.md)
+
+
+[gcr.io/google-appengine/*](./google-appengine/README.md)
 
 
